@@ -14,6 +14,7 @@
 *
 * @param {Phaser.Game} game Current game instance.
 */
+
 Phaser.Plugin.Juicy = function (game) {
 
   Phaser.Plugin.call(this, game);
